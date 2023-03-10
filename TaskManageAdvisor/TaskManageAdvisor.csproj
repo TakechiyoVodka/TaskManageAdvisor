@@ -88,6 +88,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="SpecSheets\20230308_TaskManageAdvisor_構想設計仕様書.pptx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

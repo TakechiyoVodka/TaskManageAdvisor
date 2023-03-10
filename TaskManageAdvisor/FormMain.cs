@@ -25,6 +25,7 @@ namespace TaskManageAdvisor
         {
             try
             {
+              
                 UCKeepingTasks.Visible = true;
             }
             catch(Exception ex)
